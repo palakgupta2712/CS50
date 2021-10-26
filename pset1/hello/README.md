@@ -1,0 +1,3 @@
+# Hello
+
+Find instructions for this lab [here](https://cs50.harvard.edu/x/2021/labs/1/hello/)
