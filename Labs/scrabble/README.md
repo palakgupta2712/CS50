@@ -31,4 +31,8 @@ Complete the implementation of scrabble.c, such that it determines the winner of
   - Though Scrabble rules normally require that a word be in the dictionary, no need to check for that in this problem!
 - In `main()`, your program should print, depending on the players’ scores, `Player 1 wins!`, `Player 2 wins!`, or `Tie!`.
 
-Find the full instructions for the lab [here.](https://cs50.harvard.edu/x/2021/labs/2/)
+## Solution
+
+- [scrabble.c](https://github.com/palakgupta2712/CS50/blob/master/Labs/scrabble/scrabble.c)
+
+### Find the full instructions for the lab [here.](https://cs50.harvard.edu/x/2021/labs/2/)
