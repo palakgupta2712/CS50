@@ -1,4 +1,4 @@
-🎓 CS50
+# 🎓 CS50
 
 This repo is created to maintain the solutions to the problem sets and labs of the course CS50x provided by Harvard(OpenCourseWare).
 https://cs50.harvard.edu/x/2021/.
