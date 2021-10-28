@@ -9,7 +9,8 @@ https://cs50.harvard.edu/x/2021/.
 
 # 📂 Table of Content
 
-- [Week 1 - C ](#week-1---c)
+- [Week 1 - C ](#-week-1---c)
+- [Week 2 - Arrays ](#-week-1---arrays)
 
 ## 🚩 Week 1 - C
 
@@ -20,3 +21,12 @@ https://cs50.harvard.edu/x/2021/.
 - [Hello](https://github.com/palakgupta2712/CS50/tree/master/Problem_Set/pset1/hello)
 - [Mario](https://github.com/palakgupta2712/CS50/tree/master/Problem_Set/pset1/mario)
 - [Cash](https://github.com/palakgupta2712/CS50/tree/master/Problem_Set/pset1/cash)
+
+## 🚩 Week 2 - Arrays
+
+### Lab : [scrabble](https://github.com/palakgupta2712/CS50/tree/master/Labs/scrabble)
+
+### Problem Set : [pset2](https://github.com/palakgupta2712/CS50/tree/master/Problem_Set/pset2)
+
+- [Readability](https://github.com/palakgupta2712/CS50/tree/master/Problem_Set/pset2/readability)
+- Caesar
