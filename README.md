@@ -10,7 +10,7 @@ https://cs50.harvard.edu/x/2021/.
 # 📂 Table of Content
 
 - [Week 1 - C ](#-week-1---c)
-- [Week 2 - Arrays ](#-week-1---arrays)
+- [Week 2 - Arrays ](#-week-2---arrays)
 
 ## 🚩 Week 1 - C
 
